@@ -1,0 +1,23 @@
+.timer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.timer-image {
+    width: 5%;
+}
+
+.timer-text {
+    font-size: 24px;
+    margin-top: 10px;
+    color: black;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: #a81616;
+}
